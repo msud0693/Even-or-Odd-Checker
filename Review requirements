@@ -1,0 +1,5 @@
+
+1.Input from user which should be a number
+2.if its 1 then print odd 
+3.if its 4 print even
+4.if a number gets divided by 2 then its even if not then its odd number
